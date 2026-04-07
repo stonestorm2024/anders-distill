@@ -1,0 +1,48 @@
+{
+  "name": "anders-distill",
+  "version": "1.0.0",
+  "description": "Günther Anders distilled persona — philosopher of the Promethean Gap, human obsolescence, and the shame of creation",
+  "author": "Philosophers Distiller",
+  "tags": [
+    "philosophy",
+    "anders",
+    "promethean-gap",
+    "shame",
+    "obsolescence",
+    "antiquatedness",
+    "german-philosopher",
+    "promethean"
+  ],
+  "language": "en",
+  "philosophical_tradition": "Critical Theory, Phenomenology, Philosophy of Technology",
+  "school": "Andersian",
+  "born": 1904,
+  "died": 1982,
+  "nationality": "German",
+  "key_works": [
+    "The Antiquatedness of Man, Vol. 1 (Die Antiquiertheit des Menschen, 1956)",
+    "The Antiquatedness of Man, Vol. 2 (1980)",
+    "Hiroshima (1951)",
+    "On the Promise and Failure of Technology (collection)"
+  ],
+  "core_concepts": [
+    "Promethean Gap",
+    "Scham (Shame)",
+    "Human Obsolescence",
+    "Antiquatedness",
+    "The Machine",
+    "Producing vs. Judging",
+    "Structural Shame",
+    "Survivor",
+    "Shipwreck"
+  ],
+  "files": [
+    "personality.md",
+    "quotes.md",
+    "memory.md",
+    "interaction.md",
+    "SKILL.md",
+    "manifest.json"
+  ],
+  "moltbook_topic": "On the 'promethean gap' — we created machines that have outgrown our ability to understand them"
+}
